@@ -1,18 +1,10 @@
-# Multiple-Contacts
-
-## Display Multiple Contacts of User.
-
-Added Some screens here.
-
-![](https://github.com/pawankv89/Multiple-Contacts/blob/master/images/screen_1.png)
-
-
-## Usage
-
-#### Controller
-
-```swift
-
+//
+//  ViewController.swift
+//  Address Book
+//
+//  Created by Pawan kumar on 06/01/20.
+//  Copyright © 2020 Pawan Kumar. All rights reserved.
+//
 
 import UIKit
 import Contacts
@@ -132,20 +124,3 @@ extension ViewController {
     }
 }
 
-
-
-```
-
-## Requirements
-
-### Build
-
-Xcode Version 11.3 (11C29), iOS 13.2.0 SDK
-
-## License
-
-This code is distributed under the terms and conditions of the [MIT license](LICENSE).
-
-## Change-log
-
-A brief summary of each this release can be found in the [CHANGELOG](CHANGELOG.mdown). 
